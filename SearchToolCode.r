@@ -25,7 +25,7 @@ library(rhandsontable) #spacing around data table
 library(knitr) #html tables
 library(kableExtra) #html table aesthetics
 
-statutes <- read_csv("statutes.csv") 
+statutes <- read_csv("https://raw.githubusercontent.com/JensenArmstrong/StatuteSearchTool/main/statutes.csv?token=ASMFBJLT5Y5EC2HOOFMBSP2766S6A") 
 
 ```
 
